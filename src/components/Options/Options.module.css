@@ -1,0 +1,18 @@
+.buttonSection {
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.button {
+    color:rgb(95, 69, 69);
+    font-size: 18px;
+    font-weight: 700;
+    border: solid 2px black;
+    background-color:rgb(160, 211, 253);
+}
+
+.button:hover {
+    border-color:indigo;
+}

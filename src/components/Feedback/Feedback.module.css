@@ -1,0 +1,12 @@
+.states {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.option {
+    font-size: 18px;
+    font-weight: 500;
+    color:black;
+}
